@@ -1,0 +1,128 @@
+
+
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+
+
+  
+h1{
+    text-align: center;
+     background-color: black;
+    color: white;
+    padding: 12px;;
+}
+.navbar ul{
+    display: flex;
+    list-style-type: none;
+     background-color: red;
+     justify-content: center;
+     padding: 12px;
+    
+
+}
+.navbar ul li
+{
+    margin: 0 10px ;
+    
+}
+.navbar ul li a{
+    text-align: center;
+    text-decoration: none;
+    color: white;
+}
+
+.table{
+     
+    border: 1px solid grey;
+    border-collapse:collapse ;
+    width: 1520px;
+    height: 1200px;
+    text-transform: capitalize
+
+    
+}
+
+
+.table tbody tr td {
+    padding: 15px;
+    
+    background-color: white;
+    text-align: left;
+    border:  1px solid grey;
+    border-collapse:collapse 
+   
+    
+ 
+   
+    
+}
+ 
+   
+
+                    
+.Pan_number
+{
+    width: 60%;
+    height: 20px;
+    font-weight: 500;
+    font-size: small;
+    background-color: transparent;
+}
+.FN
+{
+     
+    width: 50%;
+    height: 30px;
+    font-weight: 500;
+    font-size: small;
+      background-color: transparent;
+  
+
+}
+.MN
+ {
+    width: 50%;
+    height: 30px;
+    font-weight: 500;
+    font-size: small;
+    background-color: transparent;
+    
+    
+}
+.LN
+ {
+    width: 50%;
+    height: 30px;
+    font-weight: 500;
+    font-size: small;
+    background-color: transparent;
+}
+.card{
+     width: 50%;
+    height: 30px;
+    font-weight: 500;
+    font-size: small;
+    background-color: transparent;
+
+}
+.submit{
+    display: block;
+  text-align: center;
+    background-color: rgb(200, 0, 0);
+    color: white;
+    border: none;
+    height: 50;
+    width: 100%;
+    border-radius: 8px;
+    margin: 1%;
+    cursor: pointer;
+   
+    letter-spacing: 5px;
+   
+    transition: 1s;
+   
+}
